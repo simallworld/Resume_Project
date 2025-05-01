@@ -101,3 +101,37 @@ p{
 .space{
     margin-top: 20px;
 }
+
+.tech-skills-para{
+    margin-left: 20px;
+}
+
+.tech-skills hr{
+    margin-bottom: 20px;
+}
+
+.edu-detail{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: -10px;
+}
+
+.edu-detail p{
+    font-size: 18px;
+}
+
+.education hr{
+    margin-bottom: 20px;
+}
+
+.edu-yr-loc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+    margin-left: 20px;
+}
+
